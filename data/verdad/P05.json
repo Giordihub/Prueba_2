@@ -1,0 +1,346 @@
+{
+  "id_paciente": "P05",
+  "edad": 61,
+  "sexo": "M",
+  "fecha_ingreso": "2025-06-10",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada con FEVI reducida (ICFEr), perfil caliente-húmedo",
+  "diagnosticos_secundarios": [
+    "Síndrome cardiorrenal tipo 1 (AKI sobre ERC etapa 4)",
+    "Hiperkalemia severa con cambios ECG",
+    "Acidosis metabólica",
+    "Anemia de ERC",
+    "HTA",
+    "DM2",
+    "Cardiopatía isquémica"
+  ],
+  "antecedentes": [
+    "HTA",
+    "DM2 insulinorrequiriente",
+    "ERC etapa 4 (crea basal 3,1 mg/dL, VFG ~18), sin TRR",
+    "IAM anterior 2019 con angioplastia + stent DA",
+    "ICFEr FEVI 30% (Eco 2024)",
+    "Ex tabáquico 30 paq-año, suspendido 2019",
+    "OH negativo"
+  ],
+  "comorbilidades": [
+    "HTA",
+    "DM2",
+    "ERC etapa 4",
+    "Cardiopatía isquémica",
+    "Insuficiencia cardíaca con FEVI reducida"
+  ],
+  "fevi": 30.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "uso de AINE (ibuprofeno) + transgresión de sal",
+  "condicion_ingreso": "Disnea CF IV, ortopnea, edema EEII, insuficiencia respiratoria, hiperkalemia severa (K 6,4) con T picudas y AKI sobre ERC 4; perfil caliente-húmedo, requirió VMNI",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 158,
+    "pa_diastolica": 92,
+    "fc": 98,
+    "fr": 28,
+    "sat_o2": 88,
+    "temperatura": 36.4,
+    "soporte_o2": "naricera 3 L/min"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 4.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 78.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 6.4,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 131.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 18500.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "troponina",
+      "valor": 48.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 10.2,
+      "unidad": "g/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "glicemia",
+      "valor": 210.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.29,
+      "unidad": null,
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 17.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 5.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 5.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 5.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 85.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 5.2,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 133.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 4.5,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.9,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 4.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 9200.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-14"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "gluconato de calcio",
+      "dosis": "10% 10 mL",
+      "via": "EV",
+      "frecuencia": "dosis única",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "10 UI + SG 10% 250 mL",
+      "via": "EV",
+      "frecuencia": "dosis única",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "salbutamol",
+      "dosis": "10 mg",
+      "via": "NBZ",
+      "frecuencia": "dosis única",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "poliestirensulfonato de calcio",
+      "dosis": "15 g",
+      "via": "VO",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "bicarbonato de sodio",
+      "dosis": "1 g",
+      "via": "VO",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "120 mg bolo",
+      "via": "EV",
+      "frecuencia": "dosis única",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg/h, aumentada a 30 mg/h el 2025-06-11",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "80 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "nitroglicerina",
+      "dosis": "0,5 mcg/kg/min",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "hidroclorotiazida",
+      "dosis": "50 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-11",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "bisoprolol",
+      "dosis": "2,5 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina NPH",
+      "dosis": "10 UI",
+      "via": "SC",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "ácido acetilsalicílico",
+      "dosis": "100 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "atorvastatina",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "noche",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "heparina",
+      "dosis": "5000 UI",
+      "via": "SC",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 12 EPAP 6 FiO2 40%",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 2 L/min",
+      "fecha_inicio": "2025-06-11",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "BH estricto",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4
+    },
+    {
+      "nombre": "restricción hídrica",
+      "detalle": "1000 mL/día, régimen hiposódico",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "Se suspendieron losartán, espironolactona e ibuprofeno al ingreso. Nefrología no indicó hemodiálisis (sin CHD instalado); plan FAV ambulatoria. Retiro de O2 el 2025-06-13 (duración oxigenoterapia 11-12/06). Esquema de insulina cristalina SC sin dosis especificada. Al traslado se indica furosemida 80 mg VO c/12h. Peso 84 kg a 78,5 kg."
+}

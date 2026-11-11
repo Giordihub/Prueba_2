@@ -1,0 +1,261 @@
+{
+  "id_paciente": "P07",
+  "edad": 48,
+  "sexo": "M",
+  "fecha_ingreso": "2025-06-10",
+  "diagnostico_principal": "ICC descompensada perfil frío-húmedo, shock cardiogénico SCAI C",
+  "diagnosticos_secundarios": [
+    "Miocardiopatía dilatada OH, ICFEr (FEVI 18%)",
+    "LRA (síndrome cardiorrenal tipo 1)",
+    "Hiponatremia hipervolémica",
+    "OH crónico, riesgo de síndrome de abstinencia"
+  ],
+  "antecedentes": [
+    "Miocardiopatía dilatada OH diagnosticada 2023 (FEVI 20%)",
+    "Hospitalización por ICC descompensada 2024",
+    "OH crónico ~15 años (aprox. 1 L vino/día)",
+    "Tabaquismo activo 20 paq/año",
+    "Abandono de tratamiento hace ~1 mes"
+  ],
+  "comorbilidades": [
+    "Miocardiopatía dilatada OH",
+    "Insuficiencia cardíaca con FEVI reducida",
+    "OH crónico"
+  ],
+  "fevi": 18.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "abandono de tratamiento + consumo OH activo",
+  "condicion_ingreso": "Disnea CF IV, ortopnea, oliguria, hipotensión (PA 82/54) con signos de hipoperfusión (llene capilar 4 seg, extremidades frías, lactato 3.4) y congestión (yugulares ingurgitadas, crépitos, edema EEII); shock cardiogénico con requerimiento de noradrenalina.",
+  "perfil_hemodinamico": "frio-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 82,
+    "pa_diastolica": 54,
+    "fc": 118,
+    "fr": 26,
+    "sat_o2": 90,
+    "temperatura": 36.1,
+    "soporte_o2": "ambiental"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 42.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 129.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.9,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 9850.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "troponina",
+      "valor": 48.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 3.4,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 12.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "bilirrubina total",
+      "valor": 2.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "GGT",
+      "valor": 210.0,
+      "unidad": "U/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 2.4,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.4,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 131.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 1.5,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 134.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "noradrenalina",
+      "dosis": "0.15 mcg/kg/min",
+      "via": "EV",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "bolo único",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "10 mg/h",
+      "via": "EV",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-12",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "tiamina",
+      "dosis": "100 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "20 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "carvedilol",
+      "dosis": "3.125 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "CVC",
+      "detalle": "yugular derecho",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 3 L/min, luego 2 L/min",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "BH estricto, diuresis horaria",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "restricción hídrica",
+      "detalle": "1000 mL/día, régimen hiposódico",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    }
+  ],
+  "dias_estadia_uti": 5,
+  "desenlace": "traslado_sala",
+  "observaciones": "Noradrenalina inició a 0.15 mcg/kg/min, máximo 0.2 mcg/kg/min el 2025-06-11, descenso a 0.08 el 2025-06-12 y suspensión el 2025-06-13 (72 h). Las duraciones de furosemida EV c/12h, tiamina, enoxaparina, omeprazol, espironolactona y carvedilol se calcularon hasta el traslado a sala (2025-06-15); estos fármacos continúan en sala. Duración de restricción hídrica no determinable desde la ficha. Soporte O2 al momento de la medición de signos vitales de ingreso: ambiental; luego naricera 3 L/min. Peso ingreso 72 kg, al traslado 66 kg."
+}

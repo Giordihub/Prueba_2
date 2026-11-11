@@ -1,0 +1,315 @@
+{
+  "id_paciente": "P10",
+  "edad": 58,
+  "sexo": "F",
+  "fecha_ingreso": "2025-06-10",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada, ICFEr (FEVI 38%), en contexto de valvulopatía mitral reumática severa",
+  "diagnosticos_secundarios": [
+    "Valvulopatía mitral reumática severa (EM + IM)",
+    "FA de reciente diagnóstico con RVR",
+    "Insuficiencia respiratoria aguda por EPA",
+    "Síndrome cardiorrenal / AKI",
+    "Hiponatremia leve",
+    "HTP secundaria",
+    "Shock cardiogénico"
+  ],
+  "antecedentes": [
+    "Fiebre reumática en la infancia",
+    "Valvulopatía mitral reumática severa (doble lesión EM + IM) dg 2019, en espera de evaluación quirúrgica",
+    "HTA",
+    "Hipotiroidismo",
+    "Ex tabáquica 10 paquetes-año, suspendido hace 10 años",
+    "OH negativo",
+    "Fármacos habituales: enalapril 10 mg c/12h VO, carvedilol 6,25 mg c/12h VO, furosemida 40 mg/día VO, levotiroxina 75 mcg/día VO"
+  ],
+  "comorbilidades": [
+    "HTA",
+    "Hipotiroidismo",
+    "Valvulopatía mitral reumática severa",
+    "ICFEr"
+  ],
+  "fevi": 38.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "FA con RVR",
+  "condicion_ingreso": "Disnea de reposo CF IV, ortopnea, oliguria; FA con RVR, hipotensión con hipoperfusión (extremidades frías, llene capilar 4 seg, lactato 3,1) y congestión pulmonar y sistémica; requiere VMNI.",
+  "perfil_hemodinamico": "frio-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 92,
+    "pa_diastolica": 58,
+    "fc": 128,
+    "fr": 28,
+    "sat_o2": 86,
+    "temperatura": 36.4,
+    "soporte_o2": "ambiental"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.4,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 131.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.8,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 9850.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "troponina",
+      "valor": 48.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 3.1,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.32,
+      "unidad": null,
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "pCO2",
+      "valor": 34.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 17.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 11.8,
+      "unidad": "g/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "leucocitos",
+      "valor": 9800.0,
+      "unidad": "/mm3",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 1.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "TSH",
+      "valor": 3.2,
+      "unidad": "mUI/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.6,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 130.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.4,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 2.6,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 2.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 128.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 4.6,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 2.9,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 5.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 6.8,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.19,
+      "unidad": null,
+      "fecha": "2025-06-13"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg/h",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-12",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "dobutamina",
+      "dosis": "3 mcg/kg/min (titulada a 5, 7.5 y 10 mcg/kg/min)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "noradrenalina",
+      "dosis": "0.1 mcg/kg/min (titulada a 0.2 y 0.3 mcg/kg/min)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-12",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "amiodarona",
+      "dosis": "300 mg en 1 h, luego 900 mg/24h",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "60 mg",
+      "via": "SC",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "levotiroxina",
+      "dosis": "75 mcg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "morfina",
+      "dosis": "1 mg/h",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2,
+      "es_infusion_continua": true
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 14 / EPAP 8 cmH2O, FiO2 60% (hasta 70%)",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "Mascarilla con reservorio 15 L/min",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "CVC",
+      "detalle": "Yugular derecho",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5
+    },
+    {
+      "nombre": "línea arterial",
+      "detalle": "Radial izquierda",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "Balance hídrico estricto c/6h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5
+    }
+  ],
+  "dias_estadia_uti": 5,
+  "desenlace": "fallecido",
+  "observaciones": "Signos vitales de ingreso medidos con aire ambiental; VMNI iniciada en SU. Enoxaparina, levotiroxina y omeprazol no tienen suspensión explícita, se asume continuación hasta el fallecimiento (5 días). Shock cardiogénico diagnosticado en D3. LET acordada en D4 (no IOT, no HD, no RCP, no traslado UCI). Fallecimiento 14/06/2025 a las 04:40 h. Enalapril y carvedilol suspendidos al ingreso."
+}

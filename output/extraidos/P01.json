@@ -1,0 +1,317 @@
+{
+  "id_paciente": "P01",
+  "edad": 68,
+  "sexo": "M",
+  "fecha_ingreso": "2025-03-10",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada, IC con fracción de eyección reducida (FEVI 25%), perfil caliente-húmedo",
+  "diagnosticos_secundarios": [
+    "Insuficiencia respiratoria aguda hipoxémica",
+    "Derrame pleural bilateral leve",
+    "Miocardiopatía isquémica / cardiopatía coronaria crónica",
+    "Hipertensión arterial",
+    "Diabetes mellitus tipo 2"
+  ],
+  "antecedentes": [
+    "Hipertensión arterial (diagnóstico 2008)",
+    "Diabetes mellitus tipo 2 (diagnóstico 2012), en tratamiento con metformina",
+    "Cardiopatía coronaria: infarto agudo al miocardio inferior 2019, angioplastía con stent en arteria coronaria derecha",
+    "Miocardiopatía isquémica, IC con fracción de eyección reducida; ecocardiograma 2024 con FEVI 25%",
+    "Tabaquismo suspendido en 2019 (IPA 40)",
+    "Consumo de alcohol ocasional",
+    "Sin alergias conocidas",
+    "Fármacos habituales: enalapril 10 mg c/12h, carvedilol 12,5 mg c/12h, furosemida 40 mg/día, espironolactona 25 mg/día, ácido acetilsalicílico 100 mg/día, atorvastatina 40 mg/día, metformina 850 mg c/12h (suspendidos por el paciente hace ~3 semanas)"
+  ],
+  "comorbilidades": [
+    "Hipertensión arterial",
+    "Diabetes mellitus tipo 2",
+    "Cardiopatía coronaria crónica",
+    "Miocardiopatía isquémica con insuficiencia cardíaca con fracción de eyección reducida"
+  ],
+  "fevi": 25.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "abandono de tratamiento",
+  "condicion_ingreso": "Paciente de 68 años con disnea progresiva de 5 días hasta CF IV, ortopnea, disnea paroxística nocturna, edema de extremidades inferiores y aumento de peso de ~5 kg tras suspender todos sus fármacos hace ~3 semanas. Ingresa vigil, disneico, hablando en frases cortas, hipertenso y taquicárdico, con insuficiencia respiratoria hipoxémica (Sat 88% ambiental, pO2 56). Bien perfundido, con ingurgitación yugular, reflujo hepatoyugular (+), galope R3, crépitos hasta campos medios, hepatomegalia y edema +++ hasta rodillas.",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 158,
+    "pa_diastolica": 94,
+    "fc": 108,
+    "fr": 28,
+    "sat_o2": 88,
+    "temperatura": 36.6,
+    "soporte_o2": "ambiental al ingreso (Sat 88%); se inicia naricera 3 L/min con Sat 95%"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.4,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 134.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 8450.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 28.0,
+      "unidad": "ng/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "troponina T ultrasensible (control 6 h)",
+      "valor": 30.0,
+      "unidad": "ng/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 13.2,
+      "unidad": "g/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "proteína C reactiva",
+      "valor": 0.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "glucemia",
+      "valor": 168.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "pH arterial",
+      "valor": 7.45,
+      "unidad": null,
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "pCO2 arterial",
+      "valor": 32.0,
+      "unidad": "mmHg",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "pO2 arterial",
+      "valor": 56.0,
+      "unidad": "mmHg",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 22.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.3,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-12"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 30.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-12"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 136.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-12"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 3.9,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.3,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 137.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-14"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 3200.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-03-14"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-03-12",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-03-13",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "20 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "ácido acetilsalicílico",
+      "dosis": "100 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "atorvastatina",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "c/noche",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema HGT",
+      "via": "SC",
+      "frecuencia": "c/6h según HGT",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-03-11",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enalapril",
+      "dosis": "2,5 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-03-12",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "carvedilol",
+      "dosis": "3,125 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-03-13",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "dapagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-03-13",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "Naricera 3 L/min, Sat objetivo >92%; se baja a 1 L/min el 11-03; suspendida el 12-03",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "Diuresis horaria; retirada el 12-03",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "restricción hídrica",
+      "detalle": "1000 mL/día con balance hídrico estricto y peso diario; al traslado se indica 1500 mL/día en sala",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "Duraciones calculadas como fecha de suspensión o cambio menos fecha de inicio. Para fármacos mantenidos hasta el traslado se usó el 14-03-2025 como último día registrado. Enoxaparina e insulina se suspenden al traslado. Los fármacos que continúan en sala (furosemida VO, espironolactona, enalapril, carvedilol, dapagliflozina, AAS, atorvastatina, omeprazol) tienen duraciones solo hasta el traslado. Furosemida se registró en 3 entradas por los cambios de dosis, frecuencia y vía. La saturación de ingreso (88%) es ambiental; con naricera 3 L/min sube a 95%. Metformina suspendida al ingreso; enalapril y carvedilol habituales no reiniciados inicialmente y luego reintroducidos a dosis bajas. Hora de ingreso: 03:40, desde el Servicio de Urgencia. Troponina T ultrasensible sin curva, interpretada como no SCA. El ecocardiograma (11-03-2025) muestra además insuficiencia mitral moderada funcional, VI dilatado con aquinesia inferior y VCI 24 mm sin colapso; la insuficiencia mitral no figura como diagnóstico formal. Peso: 84 kg al ingreso y 79,5 kg al traslado. Inconsistencia en la anamnesis: se menciona 'transgresión de sal en Navidad negada' en una ficha de marzo. La temperatura y la FR no están registradas en todas las evoluciones."
+}

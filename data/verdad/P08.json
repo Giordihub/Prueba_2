@@ -1,0 +1,325 @@
+{
+  "id_paciente": "P08",
+  "edad": 66,
+  "sexo": "F",
+  "fecha_ingreso": "2025-06-14",
+  "diagnostico_principal": "IC descompensada (EPA hipertensivo) gatillada por SCA sin SDST",
+  "diagnosticos_secundarios": [
+    "IAM sin SDST",
+    "IRA hipoxémica",
+    "LRA KDIGO 1",
+    "DM2 descompensada",
+    "HTA",
+    "Dislipidemia"
+  ],
+  "antecedentes": [
+    "HTA (losartán 50 mg c/12h)",
+    "DM2 no IR (metformina 850 mg c/12h), mal control",
+    "Dislipidemia (atorvastatina 20 mg/noche)",
+    "Ex tabáquica 20 paq-año, suspendido hace 10 años",
+    "OH negativo",
+    "Colecistectomía 2010",
+    "Crea basal 1,0 mg/dL (2024)"
+  ],
+  "comorbilidades": [
+    "HTA",
+    "DM2",
+    "Dislipidemia"
+  ],
+  "fevi": 35.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "SCA sin SDST",
+  "condicion_ingreso": "EPA hipertensivo con IRA hipoxémica (Sat 84% amb) en contexto de IAM sin SDST, dolor torácico opresivo, congestión pulmonar, perfil caliente-húmedo; requiere VMNI y NTG BIC.",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 168,
+    "pa_diastolica": 96,
+    "fc": 108,
+    "fr": 32,
+    "sat_o2": 84,
+    "temperatura": 36.4,
+    "soporte_o2": "ambiental (se conecta a VMNI al ingreso)"
+  },
+  "laboratorios": [
+    {
+      "nombre": "troponina T us",
+      "valor": 845.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 8450.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.6,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 136.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 12.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "glicemia",
+      "valor": 245.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "HbA1c",
+      "valor": 8.1,
+      "unidad": "%",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.31,
+      "unidad": null,
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pCO2",
+      "valor": 46.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pO2",
+      "valor": 58.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 22.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 1.8,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina T us",
+      "valor": 1320.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-15"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.5,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-15"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-15"
+    },
+    {
+      "nombre": "troponina T us",
+      "valor": 980.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.3,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-17"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.2,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-17"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 138.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-17"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "nitroglicerina",
+      "dosis": "10 mcg/min, titulada hasta 40 mcg/min",
+      "via": "EV",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "ácido acetilsalicílico",
+      "dosis": "300 mg carga, luego 100 mg",
+      "via": "VO",
+      "frecuencia": "carga, luego día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "clopidogrel",
+      "dosis": "300 mg carga, luego 75 mg",
+      "via": "VO",
+      "frecuencia": "carga, luego día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "60 mg",
+      "via": "SC",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "atorvastatina",
+      "dosis": "80 mg",
+      "via": "VO",
+      "frecuencia": "noche",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "20 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema HGT",
+      "via": "SC",
+      "frecuencia": "c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "bisoprolol",
+      "dosis": "1.25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "dapagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 12 / EPAP 6 cmH2O FiO2 50%",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 2 L/min",
+      "fecha_inicio": "2025-06-15",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "balance hídrico estricto",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "Coronariografía diferida por EPA en VMNI y LRA; programada 19/06/2025 en sala de Cardiología (no realizada durante estadía en UTI). Duraciones de fármacos que continúan al traslado calculadas hasta 18/06/2025. Peso no documentado explícitamente. Losartán y metformina suspendidos al ingreso. Eco TT 15/06: hipoquinesia anterolateral e inferolateral, IM moderada funcional, PSAP 48 mmHg. Pendiente iniciar IECA/ARNI."
+}

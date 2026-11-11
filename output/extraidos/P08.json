@@ -1,0 +1,333 @@
+{
+  "id_paciente": "P08",
+  "edad": 66,
+  "sexo": "F",
+  "fecha_ingreso": "2025-06-14",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada (edema pulmonar agudo hipertensivo) gatillada por síndrome coronario agudo sin supradesnivel del ST",
+  "diagnosticos_secundarios": [
+    "Infarto agudo al miocardio sin supradesnivel del ST",
+    "Insuficiencia respiratoria aguda hipoxémica",
+    "Lesión renal aguda KDIGO 1",
+    "Diabetes mellitus tipo 2 descompensada",
+    "Hipertensión arterial",
+    "Dislipidemia",
+    "Insuficiencia mitral moderada funcional (ecocardiograma transtorácico 15/06)"
+  ],
+  "antecedentes": [
+    "Hipertensión arterial en tratamiento con losartán 50 mg c/12h (suspendido al ingreso)",
+    "Diabetes mellitus tipo 2 no insulinorrequirente, mal control, en tratamiento con metformina 850 mg c/12h (suspendida al ingreso)",
+    "Dislipidemia en tratamiento con atorvastatina 20 mg/noche",
+    "Ex tabaquismo 20 paquetes-año, suspendido hace 10 años",
+    "Alcohol negativo",
+    "Colecistectomía (2010)",
+    "Sin estudio cardiológico previo",
+    "Creatinina basal 1,0 mg/dL (2024)"
+  ],
+  "comorbilidades": [
+    "Hipertensión arterial",
+    "Diabetes mellitus tipo 2 no insulinorrequirente",
+    "Dislipidemia"
+  ],
+  "fevi": 35.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "SCA sin SDST (IAM sin SDST)",
+  "condicion_ingreso": "Edema pulmonar agudo hipertensivo con insuficiencia respiratoria aguda hipoxémica (Sat 84% ambiental, FR 32, uso de musculatura accesoria) que requiere VMNI, en contexto de dolor torácico opresivo e IAM sin SDST. Presenta ingurgitación yugular, crépitos hasta campos medios bilaterales, edema de extremidades inferiores ++, soplo holosistólico mitral III/VI y buena perfusión periférica.",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 168,
+    "pa_diastolica": 96,
+    "fc": 108,
+    "fr": 32,
+    "sat_o2": 84,
+    "temperatura": 36.4,
+    "soporte_o2": "ambiental"
+  },
+  "laboratorios": [
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 845.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 1320.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-15"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 980.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 8450.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.6,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.5,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-15"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.3,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-17"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 136.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 138.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-17"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-15"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.2,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-17"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 12.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "glicemia",
+      "valor": 245.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "hemoglobina glicosilada (HbA1c)",
+      "valor": 8.1,
+      "unidad": "%",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "proteína C reactiva",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pH arterial",
+      "valor": 7.31,
+      "unidad": null,
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pCO2 arterial",
+      "valor": 46.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pO2 arterial",
+      "valor": 58.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 22.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 1.8,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-14"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "nitroglicerina",
+      "dosis": "10 mcg/min, titulada hasta 40 mcg/min",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "ácido acetilsalicílico",
+      "dosis": "300 mg carga, luego 100 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "clopidogrel",
+      "dosis": "300 mg carga, luego 75 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "60 mg",
+      "via": "SC",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "atorvastatina",
+      "dosis": "80 mg",
+      "via": "VO",
+      "frecuencia": "noche",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "20 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema HGT",
+      "via": "SC",
+      "frecuencia": "c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "bisoprolol",
+      "dosis": "1.25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "dapagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 12 / EPAP 6 cmH2O, FiO2 50%",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 2 L/min",
+      "fecha_inicio": "2025-06-15",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "balance hídrico estricto",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "ecocardiograma transtorácico",
+      "detalle": "FEVI 35%, hipoquinesia anterolateral e inferolateral, insuficiencia mitral moderada funcional, PSAP 48 mmHg",
+      "fecha_inicio": "2025-06-15",
+      "duracion_dias": null
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "Duraciones calculadas como diferencia entre fecha de suspensión o cambio de dosis y fecha de inicio. Para terapias vigentes al traslado se usó como término el 18/06, último día registrado. La estadía en UTI es de 4 días por diferencia de fechas (14/06 al 18/06), aunque la evolución numera los días D1 a D5. La duración de AAS, clopidogrel, enoxaparina, atorvastatina, omeprazol e insulina se asumió continua hasta el traslado: solo se explicita la mantención de DAPT y enoxaparina, y no hay registro de suspensión de los demás. En el servicio de urgencia, antes del ingreso a UTI, recibió furosemida 40 mg EV y nitroglicerina sublingual; no se incluyeron como medicamentos de UTI. El factor descompensante es el SCA sin SDST; se niega transgresión dietaria, infección y abandono de tratamiento. La coronariografía se difirió y quedó programada para el 19/06, fuera de la estadía en UTI. Queda pendiente iniciar IECA/ARNI según función renal. Los gases arteriales del ingreso se tomaron con aire ambiental. No se registran peso, hora de egreso ni temperatura en la evolución."
+}

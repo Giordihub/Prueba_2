@@ -1,0 +1,272 @@
+{
+  "id_paciente": "P07",
+  "edad": 48,
+  "sexo": "M",
+  "fecha_ingreso": "2025-06-10",
+  "diagnostico_principal": "Insuficiencia cardíaca congestiva descompensada perfil frío-húmedo con shock cardiogénico SCAI C",
+  "diagnosticos_secundarios": [
+    "Miocardiopatía dilatada alcohólica, insuficiencia cardíaca con fracción de eyección reducida (FEVI 18%)",
+    "Lesión renal aguda (síndrome cardiorrenal tipo 1)",
+    "Hiponatremia hipervolémica",
+    "Consumo crónico de alcohol con riesgo de síndrome de abstinencia",
+    "Insuficiencia mitral moderada funcional",
+    "Bloqueo completo de rama izquierda (conocido)"
+  ],
+  "antecedentes": [
+    "Miocardiopatía dilatada alcohólica diagnosticada en 2023 (ecocardiograma: FEVI 20%)",
+    "Hospitalización por insuficiencia cardíaca congestiva descompensada en 2024",
+    "Consumo crónico de alcohol (~15 años, aprox. 1 L de vino/día), última ingesta hace 2 días",
+    "Tabaquismo activo 20 paquetes/año",
+    "Sin hipertensión arterial ni diabetes mellitus tipo 2 conocidas",
+    "Fármacos habituales: carvedilol 6.25 mg c/12h, enalapril 5 mg c/12h, furosemida 40 mg/día, espironolactona 25 mg/día",
+    "Abandono de tratamiento hace ~1 mes"
+  ],
+  "comorbilidades": [
+    "Miocardiopatía dilatada alcohólica con insuficiencia cardíaca con fracción de eyección reducida",
+    "Consumo crónico de alcohol (alcoholismo)",
+    "Tabaquismo activo",
+    "Bloqueo completo de rama izquierda"
+  ],
+  "fevi": 18.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "abandono de tratamiento + consumo de alcohol activo",
+  "condicion_ingreso": "Paciente vigil, orientado, pálido y sudoroso, con hipotensión (PA 82/54, PAM 63), taquicardia sinusal 118, hipoperfusión (llene capilar 4 seg, extremidades frías, oliguria, lactato 3.4) y congestión sistémica y pulmonar (ingurgitación yugular, reflujo hepatoyugular +, galope R3, crépitos hasta campos medios, hepatomegalia, ascitis leve, edema EEII ++/+++). Shock cardiogénico SCAI C con requerimiento de drogas vasoactivas.",
+  "perfil_hemodinamico": "frio-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 82,
+    "pa_diastolica": 54,
+    "fc": 118,
+    "fr": 26,
+    "sat_o2": 90,
+    "temperatura": 36.1,
+    "soporte_o2": "ambiental"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 42.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 129.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.9,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 9850.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 48.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 3.4,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 12.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "proteína C reactiva",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "bilirrubina total",
+      "valor": 2.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "GGT",
+      "valor": 210.0,
+      "unidad": "U/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 2.4,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.4,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 131.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 1.5,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 134.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "noradrenalina",
+      "dosis": "0.15 mcg/kg/min (máx. 0.2 mcg/kg/min el D2, luego descenso a 0.08 mcg/kg/min)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "bolo único",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "10 mg/h",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-12",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "tiamina",
+      "dosis": "100 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "20 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "c/día",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "carvedilol",
+      "dosis": "3.125 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "CVC",
+      "detalle": "Catéter venoso central yugular derecho, instalado 10:30 h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "Naricera 3 L/min (luego 2 L/min), meta Sat >92%",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "Balance hídrico estricto y diuresis horaria",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "restricción hídrica",
+      "detalle": "1000 mL/día, régimen hiposódico",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    },
+    {
+      "nombre": "monitorización CIWA-Ar",
+      "detalle": "Escala CIWA-Ar c/8h por riesgo de síndrome de abstinencia",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    }
+  ],
+  "dias_estadia_uti": 5,
+  "desenlace": "traslado_sala",
+  "observaciones": "Duraciones calculadas como diferencia entre fecha de inicio y suspensión o último día registrado (2025-06-15, traslado a sala). Noradrenalina: 72 h según ficha. Furosemida en bolo: dosis única, sin duración. Omeprazol: no se menciona su suspensión ni su continuidad al traslado, duración no determinable. Tiamina, enoxaparina, espironolactona, carvedilol y furosemida EV c/12h continúan al traslado (duración contada hasta el último día registrado en UTI). Carvedilol y enalapril habituales se suspendieron al ingreso; se difiere IECA por PA limítrofe. FEVI previa 20% (2023), FEVI actual 18% (eco bedside al ingreso). Signos vitales de ingreso con SatO2 90% en aire ambiental, antes de iniciar O2. Peso de ingreso 72 kg y al traslado 66 kg (-6 kg). Balances: D2 -1500 mL, D3 -2400 mL. Evaluado por salud mental para manejo del consumo de alcohol, sin signos de abstinencia durante la estadía."
+}

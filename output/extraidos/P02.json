@@ -1,0 +1,301 @@
+{
+  "id_paciente": "P02",
+  "edad": 79,
+  "sexo": "F",
+  "fecha_ingreso": "2025-06-14",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada con fracción de eyección preservada (ICFEp), perfil caliente-húmedo",
+  "diagnosticos_secundarios": [
+    "Fibrilación auricular con respuesta ventricular rápida (gatillante), CHA2DS2-VASc 6",
+    "Hipertensión arterial mal controlada",
+    "Enfermedad renal crónica etapa 3b",
+    "Diabetes mellitus tipo 2 no insulinorrequirente",
+    "Hipotiroidismo"
+  ],
+  "antecedentes": [
+    "Hipertensión arterial de 25 años de evolución, mal adherente",
+    "Fibrilación auricular paroxística diagnosticada en 2023, sin tratamiento anticoagulante oral (no retiró tratamiento)",
+    "Diabetes mellitus tipo 2 no insulinorrequirente",
+    "Enfermedad renal crónica etapa 3b (creatinina basal 1,2 mg/dL)",
+    "Hipotiroidismo",
+    "Quirúrgico: colecistectomía (1998)",
+    "No fumadora",
+    "Alcohol negativo",
+    "Fármacos habituales: losartán 50 mg c/12h (uso irregular, suspendido por la paciente 2 semanas antes del ingreso), amlodipino 10 mg/día, metformina 850 mg c/12h, levotiroxina 50 mcg/día"
+  ],
+  "comorbilidades": [
+    "Hipertensión arterial",
+    "Fibrilación auricular paroxística",
+    "Diabetes mellitus tipo 2 no insulinorrequirente",
+    "Enfermedad renal crónica etapa 3b",
+    "Hipotiroidismo"
+  ],
+  "fevi": 58.0,
+  "fenotipo_ic": "ICFEp",
+  "factor_descompensante": "FA con RVR; contribuye abandono de tratamiento antihipertensivo (suspensión de losartán 2 semanas antes) con HTA mal controlada",
+  "condicion_ingreso": "Mujer de 79 años con disnea progresiva hasta CF IV en 4 días, ortopnea de 3 almohadas, disnea paroxística nocturna, edema de extremidades inferiores y palpitaciones. Al ingreso hipertensa (168/94), FA con RVR 148 lpm, taquipneica (FR 28), hipoxémica (Sat 88% ambiental), habla en frases cortas, yugulares ingurgitadas, reflujo hepatoyugular positivo, crépitos hasta campos medios, hepatomegalia y edema ++/+++, bien perfundida (extremidades tibias, llene capilar <2 seg). Sin respuesta adecuada a furosemida 40 mg EV en SU. Requiere VMNI.",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 168,
+    "pa_diastolica": 94,
+    "fc": 148,
+    "fr": 28,
+    "sat_o2": 88,
+    "temperatura": 36.6,
+    "soporte_o2": "ambiental"
+  },
+  "laboratorios": [
+    {
+      "nombre": "NT-proBNP",
+      "valor": 4850.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.4,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 136.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.2,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 28.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 30.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-15"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 12.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "proteína C reactiva",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "TSH",
+      "valor": 3.1,
+      "unidad": "uUI/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "glicemia",
+      "valor": 186.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.3,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 3.8,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 138.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-18"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-18"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "nitroglicerina",
+      "dosis": "10 mcg/min, titular hasta 40 mcg/min según PA (PAS objetivo <140)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "diltiazem",
+      "dosis": "15 mg",
+      "via": "EV",
+      "frecuencia": "bolo lento único",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "diltiazem",
+      "dosis": "10 mg/h (baja a 5 mg/h el 15/06)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "diltiazem",
+      "dosis": "60 mg",
+      "via": "VO",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-15",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "60 mg",
+      "via": "SC",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "apixabán",
+      "dosis": "5 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "levotiroxina",
+      "dosis": "50 mcg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema HGT",
+      "via": "SC",
+      "frecuencia": "HGT c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "empagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "losartán",
+      "dosis": "50 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 12 / EPAP 6 cmH2O, FiO2 40%; retirada 15/06 a las 10:00 h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 2 L/min tras retiro de BiPAP; suspendida 17/06",
+      "fecha_inicio": "2025-06-15",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "para balance hídrico estricto; retirada 16/06",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "restricción hídrica",
+      "detalle": "1.000 mL/día, régimen hiposódico, reposo semisentada",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "Convención de duración: días entre fecha de inicio y fecha de suspensión/cambio; para fármacos vigentes al traslado se usó el 18/06 (último día registrado) como fecha final. La insulina cristalina no tiene suspensión explícita y se asumió vigente hasta el traslado. El bolo de diltiazem EV es dosis única, por lo que la duración queda en null. La duración de la restricción hídrica no está documentada. En SU recibió furosemida 40 mg EV, no incluida como medicamento de UTI. Losartán, amlodipino y metformina se suspendieron al ingreso; losartán se reinició el 16/06 y amlodipino y metformina no se reiniciaron durante la estadía. Troponina T us 28 a 30 ng/L, sin curva (descarta SCA). Eco TT 15/06: FEVI 58%, HVI concéntrica, AI 48 mm, PSAP 52 mmHg (hipertensión pulmonar probable, no consignada como diagnóstico), sin valvulopatía significativa. Rx de tórax: cardiomegalia, edema intersticial y derrame pleural bilateral leve. Peso: 62 kg al ingreso y 58,5 kg el 17/06. Balance hídrico: -1.900 mL (D2) y -1.500 mL (D3). FC del 17/06 y 18/06 sin descripción de ritmo (no se precisa si persiste FA). Posible inconsistencia: ERC etapa 3b con creatinina basal 1,2 mg/dL. Al alta de UTI: CF II, euvolémica, con control en policlínico de IC."
+}

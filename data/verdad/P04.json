@@ -1,0 +1,324 @@
+{
+  "id_paciente": "P04",
+  "edad": 72,
+  "sexo": "F",
+  "fecha_ingreso": "2025-06-14",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada (ICFElr, FEVI 45%), perfil caliente-húmedo, edema pulmonar agudo",
+  "diagnosticos_secundarios": [
+    "Neumonía adquirida en la comunidad LID, CURB-65 3",
+    "Insuficiencia respiratoria aguda global",
+    "HTA",
+    "DM2",
+    "ERC etapa 3a"
+  ],
+  "antecedentes": [
+    "HTA hace 20 años",
+    "DM2 en tratamiento con metformina",
+    "ERC etapa 3a (creatinina basal 1.1)",
+    "IC diagnosticada 2022, FEVI 45% (Eco 2024)",
+    "Obesidad (IMC 32)",
+    "Ex tabáquica 20 paq-año, suspendido hace 10 años",
+    "OH negativo",
+    "Colecistectomía 2010"
+  ],
+  "comorbilidades": [
+    "HTA",
+    "DM2",
+    "ERC etapa 3a",
+    "Insuficiencia cardíaca",
+    "Obesidad"
+  ],
+  "fevi": 45.0,
+  "fenotipo_ic": "ICFElr",
+  "factor_descompensante": "infección respiratoria (neumonía adquirida en la comunidad LID)",
+  "condicion_ingreso": "Disnea de reposo, ortopnea y edema EEII tras 4 días de tos purulenta y fiebre; EPA con insuficiencia respiratoria aguda global (pH 7.31, pCO2 52), uso de musculatura accesoria, Sat 86% con MMV FiO2 50%, hipertensa, febril; requiere VMNI",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 158,
+    "pa_diastolica": 92,
+    "fc": 108,
+    "fr": 30,
+    "sat_o2": 86,
+    "temperatura": 38.4,
+    "soporte_o2": "mascarilla multirrespiración FiO2 50%"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.3,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 134.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 6850.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina",
+      "valor": 22.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 18.5,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "leucocitos",
+      "valor": 16800.0,
+      "unidad": "/mm3",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 11.8,
+      "unidad": "g/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.31,
+      "unidad": null,
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pCO2",
+      "valor": 52.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pO2",
+      "valor": 58.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 26.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 1.6,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.4,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 3.4,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 9.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-18"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 137.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-18"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.3,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-18"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 4.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-18"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "nitroglicerina",
+      "dosis": "0.3 mcg/kg/min (titular hasta 0.5 mcg/kg/min)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 1,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-18",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "ceftriaxona",
+      "dosis": "2 g",
+      "via": "EV",
+      "frecuencia": "c/24h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "azitromicina",
+      "dosis": "500 mg",
+      "via": "EV",
+      "frecuencia": "c/24h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema HGT",
+      "via": "SC",
+      "frecuencia": "c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "paracetamol",
+      "dosis": "1 g",
+      "via": "EV",
+      "frecuencia": "c/8h SOS Tº > 38 ºC",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "cloruro de potasio",
+      "dosis": "20 mEq",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "bisoprolol",
+      "dosis": "1.25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enalapril",
+      "dosis": "2.5 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-18",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "dapagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-18",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 14 EPAP 7 cmH2O FiO2 50%, luego FiO2 40% y 35%",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 3 L/min, luego 2 L/min",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "kinesioterapia respiratoria",
+      "detalle": "KTR",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null
+    }
+  ],
+  "dias_estadia_uti": 5,
+  "desenlace": "traslado_sala",
+  "observaciones": "Duración calculada como fecha de suspensión menos fecha de inicio. Ceftriaxona: 5 días en UTI, continúa en sala hasta completar 7 días. Enoxaparina, insulina, paracetamol SOS y KTR sin fecha de suspensión documentada (null). Furosemida VO, bisoprolol, espironolactona, enalapril y dapagliflozina continúan al traslado (null). Metformina, enalapril 10 mg c/12h y bisoprolol 2.5 mg habituales suspendidos al ingreso. Antigenuria neumococo positiva, hemocultivos negativos."
+}

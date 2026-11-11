@@ -1,0 +1,313 @@
+{
+  "id_paciente": "P06",
+  "edad": 84,
+  "sexo": "F",
+  "fecha_ingreso": "2025-06-10",
+  "diagnostico_principal": "Insuficiencia cardíaca congestiva descompensada, insuficiencia cardíaca con fracción de eyección preservada (FEVI 58%), perfil caliente-húmedo, con anasarca",
+  "diagnosticos_secundarios": [
+    "Enfermedad renal crónica etapa 3b reagudizada (síndrome cardiorrenal)",
+    "Diabetes mellitus tipo 2 insulinorrequiriente descompensada (hiperglicemia)",
+    "Hipertensión arterial",
+    "Hipotiroidismo",
+    "Obesidad",
+    "Hipokalemia (K 3,4 mEq/L el 13/06, tratada con KCl)"
+  ],
+  "antecedentes": [
+    "Hipertensión arterial de larga data",
+    "Diabetes mellitus tipo 2 insulinorrequiriente (insulina NPH desde 2018), HbA1c previa 8,5% (febrero 2025)",
+    "Enfermedad renal crónica etapa 3b, creatinina basal 1,3 mg/dL",
+    "Insuficiencia cardíaca con fracción de eyección preservada diagnosticada en 2022 (FEVI 60% en ecocardiograma 2022)",
+    "Hipotiroidismo",
+    "Obesidad (IMC 34)",
+    "Colecistectomía (1998)",
+    "Sin tabaquismo",
+    "Sin consumo de alcohol",
+    "Fármacos habituales: furosemida 40 mg VO día, losartán 50 mg VO c/12h, espironolactona 25 mg VO día, insulina NPH 14 UI AM + 8 UI PM, levotiroxina 75 mcg VO día"
+  ],
+  "comorbilidades": [
+    "Hipertensión arterial",
+    "Diabetes mellitus tipo 2 insulinorrequiriente",
+    "Enfermedad renal crónica etapa 3b",
+    "Insuficiencia cardíaca con fracción de eyección preservada",
+    "Hipotiroidismo",
+    "Obesidad"
+  ],
+  "fevi": 58.0,
+  "fenotipo_ic": "ICFEp",
+  "factor_descompensante": "Abandono de tratamiento (suspensión de furosemida por cuenta propia hace 3 semanas por incontinencia urinaria) y transgresión salina",
+  "condicion_ingreso": "Mujer de 84 años con anasarca, disnea de reposo, ortopnea de 3 almohadas y disnea paroxística nocturna. Aumento de peso de aproximadamente 8 kg en 3 semanas. Al ingreso: hipertensa, taquipneica e hipoxémica (Sat 88% ambiental). Yugulares ingurgitadas, reflujo hepatoyugular positivo, crépitos hasta campos medios, ascitis y edema hasta la raíz de los muslos. Bien perfundida. Presenta deterioro de la función renal (creatinina 1,6 mg/dL) e hiperglicemia.",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 162,
+    "pa_diastolica": 84,
+    "fc": 92,
+    "fr": 26,
+    "sat_o2": 88,
+    "temperatura": 36.4,
+    "soporte_o2": "ambiental (Sat 88%); con naricera 3 L/min Sat 93%"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.6,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 42.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 133.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.8,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 4850.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "troponina I ultrasensible",
+      "valor": 28.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 10.8,
+      "unidad": "g/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "glicemia",
+      "valor": 286.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "HbA1c",
+      "valor": 8.9,
+      "unidad": "%",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "albúmina",
+      "valor": 3.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "proteína C reactiva",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.1,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 131.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.7,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 3.4,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 132.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.5,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 3.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 134.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "80 mg",
+      "via": "EV",
+      "frecuencia": "dosis única (bolo)",
+      "fecha_inicio": "2025-06-11",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "10 mg/h",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-11",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "losartán",
+      "dosis": "50 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina NPH",
+      "dosis": "14 UI AM y 8 UI PM",
+      "via": "SC",
+      "frecuencia": "c/12h (AM y PM)",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema",
+      "via": "SC",
+      "frecuencia": "según HGT c/6h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "levotiroxina",
+      "dosis": "75 mcg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "hidroclorotiazida",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-12",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "cloruro de potasio",
+      "dosis": "1 g",
+      "via": "VO",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "empagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 3 L/min para Sat >92%",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "balance hídrico estricto",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 4
+    },
+    {
+      "nombre": "régimen hiposódico y restricción hídrica",
+      "detalle": "sodio 2 g, restricción hídrica 1000 mL/día, régimen diabético, peso diario",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "Las duraciones se calcularon como la diferencia entre la fecha de inicio y la de suspensión o el último día registrado (14/06), coherente con la estadía UTI de 4 días. Bolo único de furosemida 80 mg EV (11/06): duración no aplicable. Furosemida 40 mg VO c/12h se inició el 14/06, día del traslado, por lo que su duración no es determinable. Insulina cristalina según esquema: se menciona por última vez el 11/06 y no figura en la lista de fármacos mantenidos del 14/06, por lo que su duración es incierta. Oxigenoterapia suspendida el 13/06. Hiponatremia leve (Na 131-134 mEq/L) y anemia (Hb 10,8 g/dL) no están registradas como diagnósticos en la ficha. La ecocardiografía del 11/06 muestra además HVI concéntrica, AI dilatada, disfunción diastólica, PSAP 52 mmHg y VCI 24 mm sin colapso. La radiografía de tórax muestra cardiomegalia, redistribución de flujo y derrame pleural bilateral pequeño. Troponina sin curva. Peso de ingreso 92 kg y de egreso 86,1 kg (-5,9 kg)."
+}

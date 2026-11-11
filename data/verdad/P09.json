@@ -1,0 +1,290 @@
+{
+  "id_paciente": "P09",
+  "edad": 75,
+  "sexo": "M",
+  "fecha_ingreso": "2025-06-14",
+  "diagnostico_principal": "Insuficiencia cardíaca con fracción de eyección preservada descompensada",
+  "diagnosticos_secundarios": [
+    "EPOC exacerbado moderado",
+    "Bronquitis aguda bacteriana probable",
+    "Insuficiencia respiratoria aguda global compensada"
+  ],
+  "antecedentes": [
+    "Hospitalización por EPOC exacerbado 2023",
+    "Ecocardiograma 2024 FEVI 58%, HVI concéntrica, AI dilatada",
+    "Ex tabáquico 40 paquetes-año, suspendido 2018",
+    "OH social",
+    "Colecistectomía 2010",
+    "Adherencia irregular a furosemida"
+  ],
+  "comorbilidades": [
+    "EPOC GOLD 3",
+    "ICFEp",
+    "HTA",
+    "DM2",
+    "Obesidad"
+  ],
+  "fevi": 55.0,
+  "fenotipo_ic": "ICFEp",
+  "factor_descompensante": "infección respiratoria + abandono de diurético",
+  "condicion_ingreso": "Disnea de reposo de 4 días con tos productiva, ortopnea, edema EEII y desaturación 86% ambiental. Sibilancias difusas y crépitos bibasales. Dificultad diagnóstica entre EPOC exacerbado e IC descompensada, con NT-proBNP en zona gris; la eco pie de cama mostró congestión.",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 158,
+    "pa_diastolica": 88,
+    "fc": 104,
+    "fr": 28,
+    "sat_o2": 86,
+    "temperatura": 37.6,
+    "soporte_o2": "naricera 3 L/min"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.3,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 136.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 1450.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina",
+      "valor": 28.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina",
+      "valor": 30.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 6.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "procalcitonina",
+      "valor": 0.18,
+      "unidad": "ng/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "leucocitos",
+      "valor": 12800.0,
+      "unidad": "/mm3",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 14.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.36,
+      "unidad": null,
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pCO2",
+      "valor": 52.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pO2",
+      "valor": 58.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 29.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 138.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 620.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 1.9,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-17"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "salbutamol",
+      "dosis": "2,5 mg",
+      "via": "NBZ",
+      "frecuencia": "c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "bromuro de ipratropio",
+      "dosis": "0,5 mg",
+      "via": "NBZ",
+      "frecuencia": "c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "prednisona",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "amoxicilina/ácido clavulánico",
+      "dosis": "875/125 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "losartán",
+      "dosis": "50 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema HGT",
+      "via": "SC",
+      "frecuencia": "según HGT",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "tiotropio/olodaterol",
+      "dosis": "2,5/2,5 mcg 2 puff",
+      "via": "inhalatoria",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "empagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 3 L/min, luego 2 L/min el 15-06 y 1 L/min el 16-06; suspendida el 17-06",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "kinesioterapia respiratoria",
+      "detalle": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "La FEVI registrada (55%) corresponde a la eco pie de cama de ingreso; la eco 2024 informó 58%. Las duraciones se calcularon hasta el traslado el 18-06; amoxicilina/clavulánico continúa en sala hasta completar 7 días. Salbutamol queda indicado SOS desde el 17-06. Metformina se suspendió al ingreso. La troponina se interpretó sin curva. Talla no documentada."
+}

@@ -1,0 +1,328 @@
+{
+  "id_paciente": "P10",
+  "edad": 58,
+  "sexo": "F",
+  "fecha_ingreso": "2025-06-10",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada con fracción de eyección reducida (FEVI 38%), perfil frío-húmedo",
+  "diagnosticos_secundarios": [
+    "Valvulopatía mitral reumática severa (estenosis mitral + insuficiencia mitral)",
+    "Fibrilación auricular de reciente diagnóstico con respuesta ventricular rápida",
+    "Insuficiencia respiratoria aguda por edema pulmonar agudo",
+    "Síndrome cardiorrenal / lesión renal aguda",
+    "Hiponatremia leve",
+    "Hipertensión pulmonar secundaria",
+    "Shock cardiogénico (diagnosticado el 2025-06-12)"
+  ],
+  "antecedentes": [
+    "Fiebre reumática en la infancia",
+    "Valvulopatía mitral reumática severa (doble lesión: estenosis mitral + insuficiencia mitral) diagnosticada en 2019, en lista de espera para evaluación quirúrgica, controles irregulares",
+    "Ex tabaquismo (10 paquetes-año, suspendido hace 10 años)",
+    "Consumo de alcohol negativo",
+    "Sin alergias conocidas",
+    "Fármacos habituales: enalapril 10 mg c/12h VO, carvedilol 6,25 mg c/12h VO, furosemida 40 mg/día VO, levotiroxina 75 mcg/día VO",
+    "Capacidad funcional basal NYHA II",
+    "Adherente a tratamiento"
+  ],
+  "comorbilidades": [
+    "Insuficiencia cardíaca con fracción de eyección reducida",
+    "Valvulopatía mitral reumática severa",
+    "Hipertensión arterial",
+    "Hipotiroidismo"
+  ],
+  "fevi": 38.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "FA con RVR (fibrilación auricular de reciente diagnóstico con respuesta ventricular rápida)",
+  "condicion_ingreso": "Mujer de 58 años con valvulopatía mitral reumática severa que ingresa por insuficiencia cardíaca descompensada con hipoperfusión. Presenta disnea de reposo, ortopnea, palpitaciones por fibrilación auricular con respuesta ventricular rápida, hipotensión limítrofe (PA 92/58) e insuficiencia respiratoria (Sat 86% ambiental). Al examen: extremidades frías, llene capilar de 4 seg, ingurgitación yugular, crépitos bilaterales y edema de extremidades inferiores. Además oliguria, somnolencia, lactato 3,1 mmol/L y acidosis metabólica. Inicia VMNI en el servicio de urgencia.",
+  "perfil_hemodinamico": "frio-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 92,
+    "pa_diastolica": 58,
+    "fc": 128,
+    "fr": 28,
+    "sat_o2": 86,
+    "temperatura": 36.4,
+    "soporte_o2": "ambiental"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.4,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 131.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.8,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 9850.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 48.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 3.1,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.32,
+      "unidad": null,
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "pCO2",
+      "valor": 34.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 17.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 11.8,
+      "unidad": "g/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "leucocitos",
+      "valor": 9800.0,
+      "unidad": "/mm3",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 1.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "TSH",
+      "valor": 3.2,
+      "unidad": "mUI/L",
+      "fecha": "2025-06-10"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.6,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 130.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.4,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 2.6,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 2.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 128.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 4.6,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 2.9,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 5.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 6.8,
+      "unidad": "mmol/L",
+      "fecha": "2025-06-13"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.19,
+      "unidad": null,
+      "fecha": "2025-06-13"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/8h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg/h",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-12",
+      "duracion_dias": null,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "dobutamina",
+      "dosis": "3 mcg/kg/min (titulada a 5, 7,5 y 10 mcg/kg/min)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 5,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "amiodarona",
+      "dosis": "300 mg EV en 1 h, luego 900 mg/24h",
+      "via": "EV / infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "noradrenalina",
+      "dosis": "0,1 mcg/kg/min (titulada a 0,2 y luego 0,3 mcg/kg/min)",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-12",
+      "duracion_dias": 3,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "60 mg",
+      "via": "SC",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "levotiroxina",
+      "dosis": "75 mcg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "morfina",
+      "dosis": "1 mg/h",
+      "via": "infusión continua",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2,
+      "es_infusion_continua": true
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 14 / EPAP 8 cmH2O, FiO2 60% (iniciada en el servicio de urgencia). Retirada por intolerancia el 2025-06-13",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "Mascarilla con reservorio 15 L/min",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2
+    },
+    {
+      "nombre": "CVC",
+      "detalle": "Catéter venoso central yugular derecho",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    },
+    {
+      "nombre": "línea arterial",
+      "detalle": "Radial izquierda",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "Balance hídrico estricto c/6h",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    },
+    {
+      "nombre": "restricción hídrica",
+      "detalle": "1000 mL/día",
+      "fecha_inicio": "2025-06-10",
+      "duracion_dias": null
+    },
+    {
+      "nombre": "limitación del esfuerzo terapéutico",
+      "detalle": "No IOT, no HD, no RCP, no escalar DVA, no traslado UCI; medidas de confort",
+      "fecha_inicio": "2025-06-13",
+      "duracion_dias": 2
+    }
+  ],
+  "dias_estadia_uti": 5,
+  "desenlace": "fallecido",
+  "observaciones": "Fallece el 2025-06-14 a las 04:40 h. Previamente, la paciente y su familia acordaron limitación del esfuerzo terapéutico. Estadía consignada como 'día 5' en la ficha (calendario 10 al 14 de junio). Duraciones contadas así: inclusivas para terapias mantenidas hasta el fallecimiento (dobutamina, noradrenalina, morfina) y desde el inicio hasta el día de suspensión para las suspendidas (amiodarona hasta el 13/06; furosemida en bolos hasta su cambio a BIC el 12/06; VMNI hasta el 13/06). La furosemida en BIC no se vuelve a mencionar tras el 12/06 (anuria el 13/06), por lo que su duración es indeterminada. Las duraciones de enoxaparina, levotiroxina, omeprazol, CVC, línea arterial y sonda Foley no están documentadas. Las unidades de los laboratorios de evolución se asumieron iguales a las del ingreso. Enalapril y carvedilol (fármacos habituales) fueron suspendidos al ingreso. Soporte O2 al ingreso: Sat 86% ambiental, con VMNI iniciada en el servicio de urgencia. Se solicitó cupo UCI el 12/06, pero se desestimó el traslado por la limitación del esfuerzo terapéutico. Cardiocirugía consideró el riesgo quirúrgico prohibitivo. Ecocardiograma: AI 58 mm, área valvular mitral 0,9 cm2, VD dilatado, TAPSE 13 mm, PSAP 68 mmHg. Peso 62 kg."
+}

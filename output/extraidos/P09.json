@@ -1,0 +1,311 @@
+{
+  "id_paciente": "P09",
+  "edad": 75,
+  "sexo": "M",
+  "fecha_ingreso": "2025-06-14",
+  "diagnostico_principal": "Insuficiencia cardíaca con fracción de eyección preservada descompensada, perfil caliente-húmedo",
+  "diagnosticos_secundarios": [
+    "Enfermedad pulmonar obstructiva crónica exacerbada moderada, probable bronquitis aguda bacteriana",
+    "Insuficiencia respiratoria aguda global compensada",
+    "Hipertensión arterial",
+    "Diabetes mellitus tipo 2",
+    "Obesidad"
+  ],
+  "antecedentes": [
+    "Enfermedad pulmonar obstructiva crónica GOLD 3 (VEF1 42% en 2023)",
+    "Hospitalización por EPOC exacerbado en 2023, sin ventilación mecánica invasiva",
+    "Insuficiencia cardíaca con fracción de eyección preservada (ecocardiograma 2024: FEVI 58%, hipertrofia ventricular izquierda concéntrica, aurícula izquierda dilatada)",
+    "Hipertensión arterial",
+    "Diabetes mellitus tipo 2 no insulinorrequirente",
+    "Obesidad (IMC 31)",
+    "Extabaquismo 40 paquetes-año, suspendido en 2018",
+    "Consumo de alcohol social",
+    "Colecistectomía 2010",
+    "Adherencia irregular a furosemida; suspendió furosemida 1 semana antes del ingreso"
+  ],
+  "comorbilidades": [
+    "Enfermedad pulmonar obstructiva crónica GOLD 3",
+    "Insuficiencia cardíaca con fracción de eyección preservada",
+    "Hipertensión arterial",
+    "Diabetes mellitus tipo 2",
+    "Obesidad"
+  ],
+  "fevi": 55.0,
+  "fenotipo_ic": "ICFEp",
+  "factor_descompensante": "Infección respiratoria (probable bronquitis aguda bacteriana con exacerbación de EPOC) + abandono de diurético",
+  "condicion_ingreso": "Paciente de 75 años con disnea progresiva de 4 días hasta disnea de reposo, tos con expectoración amarillenta, ortopnea y edema de extremidades inferiores tras suspender furosemida. Al ingreso taquicárdico, taquipneico, hipertenso, desaturando 86% ambiental, con uso leve de musculatura accesoria, ingurgitación yugular, sibilancias difusas, crépitos bibasales y edema bilateral hasta rodillas. Extremidades tibias, buena perfusión. Insuficiencia respiratoria global compensada (pH 7,36, pCO2 52).",
+  "perfil_hemodinamico": "caliente-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 158,
+    "pa_diastolica": 88,
+    "fc": 104,
+    "fr": 28,
+    "sat_o2": 86,
+    "temperatura": 37.6,
+    "soporte_o2": "ambiental (Sat 86%); luego naricera 3 L/min con Sat 90%"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.3,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 32.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 136.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 1450.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina T ultrasensible",
+      "valor": 28.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "troponina T ultrasensible (control 6 h)",
+      "valor": 30.0,
+      "unidad": "ng/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "proteína C reactiva",
+      "valor": 6.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "procalcitonina",
+      "valor": 0.18,
+      "unidad": "ng/mL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "leucocitos",
+      "valor": 12800.0,
+      "unidad": "/mm3",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 14.1,
+      "unidad": "g/dL",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pH arterial",
+      "valor": 7.36,
+      "unidad": null,
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pCO2 arterial",
+      "valor": 52.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "pO2 arterial",
+      "valor": 58.0,
+      "unidad": "mmHg",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 29.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-14"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 138.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 620.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-06-16"
+    },
+    {
+      "nombre": "proteína C reactiva",
+      "valor": 1.9,
+      "unidad": "mg/dL",
+      "fecha": "2025-06-17"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "20 mg",
+      "via": "EV",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-16",
+      "duracion_dias": 1,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "salbutamol",
+      "dosis": "2,5 mg",
+      "via": "NBZ",
+      "frecuencia": "c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "bromuro de ipratropio",
+      "dosis": "0,5 mg",
+      "via": "NBZ",
+      "frecuencia": "c/6h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "prednisona",
+      "dosis": "40 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "amoxicilina/ácido clavulánico",
+      "dosis": "875/125 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "losartán",
+      "dosis": "50 mg",
+      "via": "VO",
+      "frecuencia": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema HGT",
+      "via": "SC",
+      "frecuencia": "según HGT",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 5,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "tiotropio/olodaterol",
+      "dosis": "2,5/2,5 mcg 2 puff",
+      "via": "inhalatoria",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "salbutamol",
+      "dosis": null,
+      "via": "inhalatoria",
+      "frecuencia": "SOS",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "empagliflozina",
+      "dosis": "10 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-06-17",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "Naricera 3 L/min, objetivo Sat 88-92%; se baja a 2 L/min el 15-06, a 1 L/min el 16-06 y se suspende el 17-06",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "kinesioterapia respiratoria",
+      "detalle": "c/12h",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null
+    },
+    {
+      "nombre": "restricción hídrica",
+      "detalle": "1.200 mL/día; régimen hiposódico y diabético",
+      "fecha_inicio": "2025-06-14",
+      "duracion_dias": null
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_sala",
+  "observaciones": "FEVI: se registra 55% (estimación visual en eco pie de cama al ingreso); el eco 2024 informaba 58%. Ambos valores corresponden a ICFEp. Días de estadía calculados como diferencia entre el ingreso (14-06) y el traslado (18-06) = 4 días; la ficha rotula el día del traslado como D5. Las duraciones de los fármacos se contaron como días de administración: desde el día de inicio hasta el día previo al cambio o suspensión, o incluyendo el último día registrado (18-06) si continuaban. Duración de KTR y restricción hídrica no especificada. En SU, antes del ingreso a UTI, recibió salbutamol NBZ x3 y furosemida 20 mg EV (no incluidos en medicamentos UTI). Fármacos habituales: losartán 50 mg c/12h, furosemida 20 mg/día (adherencia irregular, suspendida 1 semana antes), metformina 850 mg c/12h (suspendida en UTI, se reiniciará en sala), tiotropio/olodaterol (suspendido 14-06, reiniciado 17-06) y salbutamol SOS. Amoxicilina/ácido clavulánico continúa en sala hasta completar 7 días. Creatinina basal 1,1 mg/dL. NT-proBNP de ingreso en zona gris para edad y obesidad. Al ingreso, Sat 86% ambiental, que sube a 90% con naricera 3 L/min. Peso de ingreso 84 kg, peso al traslado 80,5 kg. Diagnóstico diferencial inicial: EPOC exacerbado vs IC descompensada; se confirmó el componente de IC por la respuesta diurética y la caída del NT-proBNP."
+}

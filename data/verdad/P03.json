@@ -1,0 +1,273 @@
+{
+  "id_paciente": "P03",
+  "edad": 55,
+  "sexo": "M",
+  "fecha_ingreso": "2025-03-10",
+  "diagnostico_principal": "Insuficiencia cardíaca descompensada ICFEr (FEVI 20%), perfil frío-húmedo",
+  "diagnosticos_secundarios": [
+    "Síndrome de bajo débito / hipoperfusión SCAI C",
+    "Lesión renal aguda - síndrome cardiorrenal",
+    "Hiponatremia hipervolémica",
+    "Cardiopatía isquémica, miocardiopatía dilatada",
+    "HTA",
+    "DM2",
+    "Abandono de tratamiento"
+  ],
+  "antecedentes": [
+    "IAM anterior 2021 con ATC y stent a DA",
+    "Miocardiopatía dilatada isquémica, ICFEr FEVI 20% (Eco 2024)",
+    "HTA",
+    "DM2 no insulinorrequirente",
+    "Tabaquismo activo 20 paq-año",
+    "OH ocasional",
+    "Abandono de tratamiento hace aprox. 3 semanas"
+  ],
+  "comorbilidades": [
+    "HTA",
+    "DM2",
+    "Cardiopatía isquémica",
+    "Miocardiopatía dilatada isquémica / ICFEr"
+  ],
+  "fevi": 20.0,
+  "fenotipo_ic": "ICFEr",
+  "factor_descompensante": "abandono de tratamiento",
+  "condicion_ingreso": "Disnea CF IV, ortopnea, DPN, edema y ascitis; hipotensión, taquicardia, extremidades frías, llene capilar 4 seg, livideces, oliguria, somnolencia; congestión pulmonar y sistémica. Perfil frío-húmedo, SCAI C.",
+  "perfil_hemodinamico": "frio-humedo",
+  "signos_vitales_ingreso": {
+    "pa_sistolica": 86,
+    "pa_diastolica": 58,
+    "fc": 118,
+    "fr": 28,
+    "sat_o2": 88,
+    "temperatura": 36.1,
+    "soporte_o2": "ambiental"
+  },
+  "laboratorios": [
+    {
+      "nombre": "creatinina",
+      "valor": 1.8,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "BUN",
+      "valor": 42.0,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 129.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 4.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "NT-proBNP",
+      "valor": 12500.0,
+      "unidad": "pg/mL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "troponina",
+      "valor": 45.0,
+      "unidad": "ng/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 2.8,
+      "unidad": "mmol/L",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "hemoglobina",
+      "valor": 12.1,
+      "unidad": "g/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "leucocitos",
+      "valor": 9800.0,
+      "unidad": null,
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "PCR",
+      "valor": 1.2,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "pH",
+      "valor": 7.36,
+      "unidad": null,
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "pCO2",
+      "valor": 32.0,
+      "unidad": null,
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "bicarbonato",
+      "valor": 18.0,
+      "unidad": null,
+      "fecha": "2025-03-10"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 2.1,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-11"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 128.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-11"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 3.1,
+      "unidad": "mmol/L",
+      "fecha": "2025-03-11"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 2.6,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-12"
+    },
+    {
+      "nombre": "potasio",
+      "valor": 5.6,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-12"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 3.8,
+      "unidad": "mmol/L",
+      "fecha": "2025-03-12"
+    },
+    {
+      "nombre": "creatinina",
+      "valor": 2.9,
+      "unidad": "mg/dL",
+      "fecha": "2025-03-13"
+    },
+    {
+      "nombre": "sodio",
+      "valor": 127.0,
+      "unidad": "mEq/L",
+      "fecha": "2025-03-13"
+    },
+    {
+      "nombre": "lactato",
+      "valor": 4.5,
+      "unidad": "mmol/L",
+      "fecha": "2025-03-13"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nombre": "dobutamina",
+      "dosis": "5 mcg/kg/min, subida a 7,5 mcg/kg/min el 11/03",
+      "via": "EV",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "furosemida",
+      "dosis": "10 mg/h, subida a 20 mg/h el 11/03",
+      "via": "EV",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": true
+    },
+    {
+      "nombre": "espironolactona",
+      "dosis": "25 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 2,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "enoxaparina",
+      "dosis": "40 mg",
+      "via": "SC",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "omeprazol",
+      "dosis": "20 mg",
+      "via": "VO",
+      "frecuencia": "día",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "insulina cristalina",
+      "dosis": "según esquema",
+      "via": "SC",
+      "frecuencia": "según HGT c/6h",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4,
+      "es_infusion_continua": false
+    },
+    {
+      "nombre": "noradrenalina",
+      "dosis": "0,08 mcg/kg/min, subida a 0,15 mcg/kg/min el 13/03",
+      "via": "EV",
+      "frecuencia": "BIC",
+      "fecha_inicio": "2025-03-12",
+      "duracion_dias": 2,
+      "es_infusion_continua": true
+    }
+  ],
+  "terapias": [
+    {
+      "nombre": "oxigenoterapia",
+      "detalle": "naricera 3 L/min",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 3
+    },
+    {
+      "nombre": "CVC",
+      "detalle": "yugular derecho",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4
+    },
+    {
+      "nombre": "sonda Foley",
+      "detalle": "diuresis horaria, BH estricto",
+      "fecha_inicio": "2025-03-10",
+      "duracion_dias": 4
+    },
+    {
+      "nombre": "VMNI",
+      "detalle": "BiPAP IPAP 12 / EPAP 6, FiO2 50%",
+      "fecha_inicio": "2025-03-12",
+      "duracion_dias": 2
+    }
+  ],
+  "dias_estadia_uti": 4,
+  "desenlace": "traslado_uci",
+  "observaciones": "Duraciones contadas en días calendario inclusivos hasta el traslado (13/03). Espironolactona suspendida el 12/03 con última dosis 11/03 (2 días). Oxigenoterapia por naricera reemplazada por VMNI el 12/03. Furosemida 80 mg EV en bolo administrada en SU, antes del ingreso a UTI, no incluida en la lista. Fármacos habituales (carvedilol, enalapril, metformina) suspendidos al ingreso. Soporte O2 al ingreso: ambiental, luego naricera 3 L/min. Unidades de leucocitos y GSA no especificadas en la ficha."
+}
